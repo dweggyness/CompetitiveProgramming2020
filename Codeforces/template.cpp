@@ -6,12 +6,12 @@
 #include <utility>
 #include <algorithm>
 
+using namespace std;
+
 // pro CPers use 'll' but it hurts the soul so i compromise
 typedef long long int ll_int;
-#define pair <int,int> ii;
-#define vector <int> vi;
-
-using namespace std;
+typedef pair <int,int> ii;
+typedef vector <int> vi;
 
 int solve() {
 
